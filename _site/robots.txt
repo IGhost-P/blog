@@ -1,1 +1,1 @@
-Sitemap: https://startbootstrap.github.io/startbootstrap-clean-blog-jekyll/sitemap.xml
+Sitemap: https://ighost-p.github.io/blog//startbootstrap-clean-blog-jekyll/sitemap.xml
