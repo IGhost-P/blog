@@ -1,10 +1,9 @@
-title:              Yang Sang Woo
-email:              dndb3599@gmail.com
-description:        컴퓨터공학과 2016108271 양상우 입니다.
-
+title:              양상우
+email:              your-email@example.com
+description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/blog"
-url:                https://https://github.com/IGhost-P/blog.github.io
+url:                "https://ighost-p.github.io/blog/.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
