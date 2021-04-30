@@ -14,14 +14,14 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "👻 IGhost-P 👻"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "👻 IGhost-P 👻"
+subtitle                 : "version 1.0"
+name                     : "👻"
 description              : "Error & develope Post"
 url                      : "https://github.com/IGhost-P/blog"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "IGhost-P/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/FullSizeRender.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "👻IPGhost-P👻"
+  avatar           : "/assets/images/FullSizeRender.jpg"
+  bio              : "Error & develope Post"
+  location         : "Republic of Korea"
+  email            : "dndb3599@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
