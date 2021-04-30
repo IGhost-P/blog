@@ -19,7 +19,7 @@ title                    : "👻 IGhost-P 👻"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "👻 IGhost-P 👻"
-description              : 
+description              : "Error & develope Post"
 url                      : "https://github.com/IGhost-P/blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
